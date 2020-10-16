@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/unit_tests/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/fixtures/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/parameterized/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/organizing_tests/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/test_coverage/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/find_pairs/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://bonartm.github.io/python_testing_tutorial/quotes/</loc>
-     <lastmod>2020-08-13</lastmod>
+     <lastmod>2020-10-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

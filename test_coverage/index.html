@@ -394,7 +394,7 @@
 <hr />
 <h3 id="exercise-1-calculate-test-coverage">Exercise 1: Calculate Test Coverage<a class="headerlink" href="#exercise-1-calculate-test-coverage" title="Permanent link">&para;</a></h3>
 <p>Calculate the percentage of code covered by automatic tests:</p>
-<div class="codehilite"><pre><span></span>pytest --cov<span class="o">=</span>.
+<div class="codehilite"><pre><span></span>python -m pytest --cov<span class="o">=</span>.
 </pre></div>
 
 <p>Instead of the <code>.</code> you can insert the path you would like to see in the coverage report.</p>
@@ -403,7 +403,7 @@
 <h3 id="exercise-2-identify-uncovered-lines">Exercise 2: Identify uncovered lines<a class="headerlink" href="#exercise-2-identify-uncovered-lines" title="Permanent link">&para;</a></h3>
 <p>Find out which lines are not covered by tests. Execute</p>
 <div class="codehilite"><pre><span></span>```bash
-python -m pytest --cov=. --cov-report html
+python -m pytest --cov=. --cov-report term-missing
 ```
 </pre></div>
 
@@ -428,7 +428,7 @@ python -m pytest --cov=. --cov-report html
                   <div class="md-source-date">
                     <small>
                       
-                        Last update: August 12, 2020
+                        Last update: October 16, 2020
                       
                     </small>
                   </div>
